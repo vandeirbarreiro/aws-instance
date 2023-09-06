@@ -1,0 +1,8 @@
+.terraform/
+# Local .terraform directories
+**/.terraform/*
+.terraform/providers/registry.terraform.io/hashicorp/aws/3.76.1/linux_amd64/terraform-provider-aws_v3.76.1_x5/**
+*.terraform/**
+# .tfstate files
+*.tfstate
+*.tfstate.*
